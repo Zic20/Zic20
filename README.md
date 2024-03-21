@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Zic20
-- 👀 I’m interested in becoming a software developer
-- 🌱 I’m currently learning web development using PHP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m Isaac Zally Jr @Zic20
+- I am a Software Developer
+- Skills
+- REACT, NEXTJS, TYPESCRIPS, MSSQL, MYSQL, PHP
 
 <!---
 Zic20/Zic20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
